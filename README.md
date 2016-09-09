@@ -4,7 +4,7 @@
       - Open je terminal/commandline
       - ```git --version```
       - Als je terminal een versie terug geeft (```git version 2.7.4...```) staat git al geinstalleerd op je apparaat.
-  - Git niet geinstalleerd? 
+  - Git niet geinstalleerd?
       - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 ## 2) Clone de repository
@@ -26,9 +26,6 @@
 ```Branch feature/setup set up to track remote branch feature/setup from origin.```<br/>
 ```Switched to a new branch 'feature/setup'```<br/>
   -```git branch```<br/>
-  
+
 ```* feature/setup```<br/>
 ```master ```<br/>
-
-
-
