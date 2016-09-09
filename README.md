@@ -1,4 +1,5 @@
 # GitMaze
+###### Level 2
 ## 4) New Branch!!!
   - We zitten nu in een nieuwe branch.
   - Maak een nieuwe file: 'test.md'
