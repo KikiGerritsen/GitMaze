@@ -29,7 +29,7 @@ nothing to commit, working directory clean
 Branch feature/setup set up to track remote branch feature/setup from origin.
 Switched to a new branch 'feature/setup'
 ```
-  -```git branch```<br/>
+  - ```git branch```<br/>
   
 ```{r, engine='bash', count_lines}
 * feature/setup
