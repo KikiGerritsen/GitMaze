@@ -13,6 +13,8 @@
   - ```git clone https://link```
   - Check in je folder of er een folder in staat: 'GitMaze'.
   - Ga met je terminal naar deze folder toe: ```cd GitMaze```
+
+## 3) Switching branches
   - Check in welke branch je bent: ```git status```
 
 ```On branch master```<br/>
