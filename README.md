@@ -17,15 +17,25 @@
 ## 3) Switching branches
   - Check in welke branch je bent: ```git status```
 
-```On branch master```<br/>
-```Your branch is up-to-date with 'origin/master'.```<br/>
-```nothing to commit, working directory clean```<br/>
+```{r, engine='bash', count_lines}
+On branch master
+Your branch is up-to-date with 'origin/master'
+nothing to commit, working directory clean
+```
   - ```git fetch```
   - ```git checkout feature/setup```
 
-```Branch feature/setup set up to track remote branch feature/setup from origin.```<br/>
-```Switched to a new branch 'feature/setup'```<br/>
-  -```git branch```<br/>
+```{r, engine='bash', count_lines}
+Branch feature/setup set up to track remote branch feature/setup from origin.
+Switched to a new branch 'feature/setup'
+```
+  - ```git branch```<br/>
 
-```* feature/setup```<br/>
-```master ```<br/>
+```{r, engine='bash', count_lines}
+* feature/setup
+master
+```
+
+
+
+>>>>>>> 6f46738d1b402a7d27f6ae9176dbdf1c64de97cc
