@@ -16,4 +16,5 @@ nothing added to commit but untracked files present (use "git add" to track)
 ```
 
   - Je wilt deze file toevoegen aan je project.
-  - ```git add -a -m 'added test.md' ```
+  - ```git add . ```
+  - ```git commit -m 'added test.md' ```
