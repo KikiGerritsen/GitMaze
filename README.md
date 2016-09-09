@@ -35,7 +35,3 @@ Switched to a new branch 'feature/setup'
 * feature/setup
 master
 ```
-
-
-
->>>>>>> 6f46738d1b402a7d27f6ae9176dbdf1c64de97cc
