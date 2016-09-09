@@ -25,3 +25,10 @@
 
 ```Branch feature/setup set up to track remote branch feature/setup from origin.```<br/>
 ```Switched to a new branch 'feature/setup'```<br/>
+  -```git branch```<br/>
+  
+```* feature/setup```<br/>
+```master ```<br/>
+
+
+
