@@ -31,8 +31,10 @@ Switched to a new branch 'feature/setup'
 ```
   -```git branch```<br/>
   
-```* feature/setup```<br/>
-```master ```<br/>
+```{r, engine='bash', count_lines}
+* feature/setup
+master
+```
 
 
 
