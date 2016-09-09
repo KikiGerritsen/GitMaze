@@ -12,9 +12,9 @@
   - Open je terminal hier of route met je terminal naar deze folder toe
   - ```git clone https://link```
   - Check in je folder of er een folder in staat: 'GitMaze'.
+  - Ga met je terminal naar deze folder toe: ```cd GitMaze```
 
 ## 3) Switching branches
-  - Ga met je terminal naar deze folder toe: ```cd GitMaze```
   - Check in welke branch je bent: ```git status```
 
 ```On branch master```<br/>
