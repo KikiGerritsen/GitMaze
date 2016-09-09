@@ -17,4 +17,8 @@
 
 ```On branch master```<br/>
 ```Your branch is up-to-date with 'origin/master'.```<br/>
-```nothing to commit, working directory clean```
+```nothing to commit, working directory clean```<br/>
+  - ```git fetch```
+  - ```git checkout feature/setup```
+```Branch feature/setup set up to track remote branch feature/setup from origin.```
+```Switched to a new branch 'feature/setup'```
