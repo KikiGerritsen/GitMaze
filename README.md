@@ -3,7 +3,7 @@
   - Check of Git al geinstalleerd is:
       - Open je terminal/commandline
       - ```git --version```
-      - Als je terminal een versie terug geeft (```git version 2.7.4 (Apple Git-66)```) staat git al geinstalleerd op je apparaat.
+      - Als je terminal een versie terug geeft (```git version 2.7.4...```) staat git al geinstalleerd op je apparaat.
   - Git niet geinstalleerd? 
       - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
